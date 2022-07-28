@@ -6,16 +6,16 @@ Hello, my name is Eduardo Mendes Pereira and I am currently a software engineeri
 
 ![wallpaper-github](https://user-images.githubusercontent.com/84480565/175969053-a07a5bbf-4c04-48bd-9b0d-d3efacf25136.gif)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/EduardoMendes-coder)](https://www.linkedin.com/in/eduardo-mendes-1b7983215/)
- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/EduardoMendes-coder)](mailto:eduardompereira4@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/eduardomendespereira)](https://www.linkedin.com/in/eduardo-mendes-1b7983215/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/eduardomendespereira)](mailto:eduardompereira4@outlook.com)
  
 ```
 Acadêmico de Engenharia de Software - Centro Universitário União das Américas
 ```
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EduardoMendes-coder&show_icons=true&theme=blue-green" alt="stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMendes-coder&layout=compact&theme=blue-green" alt="most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=eduardomendespereira&show_icons=true&theme=blue-green" alt="stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomendespereira&layout=compact&theme=blue-green" alt="most languages"/>
 </p>
 
 <br>
