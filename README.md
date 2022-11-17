@@ -6,7 +6,7 @@ Hello, my name is Eduardo Mendes Pereira and I am currently a software engineeri
 
 ![wallpaper-github](https://user-images.githubusercontent.com/84480565/175969053-a07a5bbf-4c04-48bd-9b0d-d3efacf25136.gif)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/eduardomendespereira)](https://www.linkedin.com/in/eduardo-mendes-1b7983215/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/eduardomendespereira)](https://www.linkedin.com/in/eduardo-mendes-pereira-1b7983215/)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/eduardomendespereira)](mailto:eduardompereira4@outlook.com)
  
 ```
