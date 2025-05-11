@@ -2,7 +2,7 @@
 
 <br>
 
-Hello, my name is Eduardo Mendes Pereira and I am currently a software engineering student!
+Hello, my name is Eduardo Mendes Pereira and i'm a software engineer.
 
 ![wallpaper-github](https://user-images.githubusercontent.com/84480565/175969053-a07a5bbf-4c04-48bd-9b0d-d3efacf25136.gif)
 
