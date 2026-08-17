@@ -10,8 +10,7 @@ Hello, my name is Eduardo Mendes Pereira and i'm a software engineer.
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/eduardomendespereira)](mailto:eduardompereira4@outlook.com)
  
 ```
-Acadêmico de Engenharia de Software - Centro Universitário União das Américas
-```
+Engenheiro de software```
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=eduardomendespereira&show_icons=true&theme=blue-green" alt="stats"/>
